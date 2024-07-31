@@ -1,0 +1,11 @@
+Ticket_ID;Nama_Pendaki;Tanggal_Pendakian;Destinasi;Jumlah_Tiket;Harga_Tiket (IDR);Status_Tiket
+1;Ali;01/08/2024;Gunung Merapi;2;75000;Terjual
+2;Budi;02/08/2024;Gunung Semeru;1;60000;Terjual
+3;Citra;03/08/2024;Gunung Bromo;4;85000;Terjual
+4;Dedi;04/08/2024;Gunung Rinjani;3;70000;Tersedia
+5;Evi;05/08/2024;Gunung Ciremai;2;55000;Tersedia
+6;Fajar;06/08/2024;Gunung Gede;1;90000;Terjual
+7;Gita;07/08/2024;Gunung Pangrango;2;65000;Tersedia
+8;Hadi;08/08/2024;Gunung Lawu;3;80000;Terjual
+9;Intan;09/08/2024;Gunung Arjuno;2;70000;Tersedia
+10;Joko;10/08/2024;Gunung Salak;1;50000;Terjual
